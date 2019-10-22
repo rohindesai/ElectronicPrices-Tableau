@@ -17,5 +17,6 @@ From these different analysis we can predict some pricing strategies for merchan
 
 These are some of the screenshot of the dashboard.
 
+![image](https://user-images.githubusercontent.com/28640188/67252904-214a1480-f443-11e9-84e9-60e8f52166fb.png)
 
 
